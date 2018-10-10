@@ -4,6 +4,9 @@ import javax.swing.JOptionPane;
  * This is a dumb-proof version of the staircase problem. And yes, I made a typo in the name of the function and I like it that way.
  * I know I can change it, but it would loose its charm.
  */
+/**
+ * are you also dumbproof? :))))))
+ */
 public class starcase
 {
 	public static void main(String[] args) {
