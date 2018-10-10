@@ -6,6 +6,7 @@ import javax.swing.JOptionPane;
  */
 /**
  * are you also dumbproof? :))))))
+ * bc i think you are
  */
 public class starcase
 {
