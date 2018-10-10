@@ -28,7 +28,7 @@ public class starcase
         int a = 0;                  //our returning value
         while(repeat == false){     //will repeat until we have the correct value
             try{                    //try to get the proper value
-                String message = "How many stairs should I type?";
+                String message = "How many stairs shalt I typeth?";
                 a = Integer.parseInt(JOptionPane.showInputDialog(message));
                 if(a < 1){          //if negative, throw an exception
                     throw new NumberFormatException(" Your number has to be positive. I cannot print out negative number of stairs!");
